@@ -82,9 +82,10 @@ A JavaScript alert was executed in the browser.
 ---
 
 ### OS Command Injection
-Description:
+*Description:* 
 The application executes operating system commands using unsanitized user input, enabling command injection.
-Proof of Concept:
+
+*Proof of Concept:* 
 The following payload was used:
 127.0.0.1 | whoami
 The injected command was executed and returned system user information.
@@ -103,10 +104,10 @@ The injected command was executed and returned system user information.
 
 ### Unrestricted File Upload
 
-Description:
+*Description:*  
 The application allows users to upload files without validating file type or extension, enabling execution of server-side scripts.
 
-*Proof of Concept:*
+*Proof of Concept:* 
 A harmless PHP file containing test code was uploaded and successfully executed on the server.
 
 *Impact:*
