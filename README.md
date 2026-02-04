@@ -1,3 +1,5 @@
+# 🔐 Web Application Vulnerability Assessment (OWASP Top 10)
+
 ## 📌 Overview
 This project demonstrates a manual Web Application Vulnerability Assessment (WAVT) performed on a deliberately vulnerable application in a controlled lab environment. The objective was to identify, validate, and document common OWASP Top 10 vulnerabilities using ethical testing methodologies.
 
@@ -34,3 +36,17 @@ No real-world systems were tested, and exploitation was limited strictly to proo
 - Unrestricted File Upload
 
 ---
+
+## 🧠 Skills Demonstrated
+- OWASP Top 10 understanding
+- Manual vulnerability testing
+- Input validation analysis
+- Secure coding recommendations
+- Professional security documentation
+- Ethical hacking practices
+
+---
+
+## ⚠️ Disclaimer
+This project was conducted strictly in a controlled lab environment for educational purposes.  
+Testing systems without proper authorization is illegal and unethical.
